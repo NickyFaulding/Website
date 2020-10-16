@@ -59,14 +59,17 @@ main {
 
 .ProjectBox{
     display: flex;
-    flex-basis: 33%;
+    flex-basis: 60%;
 }
 
-.ProjectBoxtxt,
+.ProjectBoxtxt{
+    padding: 0 5px;
+    flex-basis: 30%;
+}
 .ProjectBoxImg
 {
     padding: 0 5px;
-    flex-basis: 50%;
+    flex-basis: 70%;
 }
 .ProjectBoxImg > img{
     width: 100%;
