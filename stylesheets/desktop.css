@@ -54,7 +54,8 @@ main {
     flex-basis: 50%;
 }
 .strapLineImg > img{
-    width: 100%;
+    width: 75%;
+    margin: 30px;
 }
 
 .ProjectBox{
