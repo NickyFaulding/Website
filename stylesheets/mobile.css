@@ -12,8 +12,15 @@
 .bar3 {
     width: 24px;
     height: 4px;
+    margin: 6px 5px;
+    background-color: #fff;
+}
+
+.burgerMenu{  
+    width: 100%;
+    height: 35px;
+    background-color: black;
     margin: 6px 0;
-    background-color: #000;
 }
 
 html, body{
