@@ -36,6 +36,10 @@ body{
     flex-direction: column;
 }
 
+p{
+    font-size: larger;
+}
+
 .logo{
     padding: 15px;
 }
